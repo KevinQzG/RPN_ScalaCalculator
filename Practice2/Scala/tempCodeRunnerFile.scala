@@ -1,1 +1,0 @@
-            case "condNumber" => stack.head :: stack.tail
