@@ -22,4 +22,4 @@ Practice 2 of the Programming Languages subject at EAFIT University, consists of
 This practice was done **<a href="https://www.jdoodle.com/compile-scala-online/">Jdoodle.com</a>** together with its built-in compiler **Scala Compiler Version 2.13.6**
 
 ## Support video
-**Coming Soon**
+**https://youtu.be/fJy2eEFAeho**
